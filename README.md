@@ -3,5 +3,3 @@
 ## Maestría en Ciencia de Datos
 
 ---
-
-**Nota**;
